@@ -4,7 +4,7 @@
 - 👀 I’m interested in wildife biology, conservation behavior, and sci-comm related social media posts.
 - 🌱 I’m currently researching radio telemetry and population abundance data on Humboldt's Flying Squirrels
 - 💞️ I’m looking to collaborate on wildlife related data
-- 📫 How to reach me parkekel@oregonstate.edu or kellanparker@yahoo.com. Insta: @kellan_thescientist
+- 📫 How to reach me kellanelisabethparker@gmail.com or kellanparker@yahoo.com. Insta: @kellan_thescientist
 
 <!---
 kellaneparker/kellaneparker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
