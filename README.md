@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parkekel
+- 👋 Hi, I’m @kellaneparker
 - 👀 I’m interested in wildife biology, conservation behavior, and sci-comm related social media posts.
 - 🌱 I’m currently researching radio telemetry and population abundance data on Humboldt's Flying Squirrels
 - 💞️ I’m looking to collaborate on wildlife related data
