@@ -5,6 +5,6 @@
 - 📫 How to reach me parkekel@oregonstate.edu or kellanparker@yahoo.com. Insta: @kellan_thescientist
 
 <!---
-parkekel/parkekel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kellaneparker/kellaneparker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
