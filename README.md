@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellaneparker
 - B.Sc. in Fisheries & Wildlife Sciences
-- Completed OSU's Wildlife Management Graduate Certificate Program - capstone project: Social Dynamics and Agonistic Behavior in California Sea Lions in Nonbreeding Colonies.
+- Wildlife Management Graduate Certificate Program - capstone project: Social Dynamics and Agonistic Behavior in California Sea Lions in   Nonbreeding Colonies.
 - 👀 I’m interested in wildife biology, conservation behavior, and sci-comm related social media posts.
 - 🌱 I’m currently researching radio telemetry and population abundance data on Humboldt's Flying Squirrels
 - 💞️ I’m looking to collaborate on wildlife related data
