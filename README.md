@@ -3,7 +3,7 @@
 - Wildlife Management Graduate Certificate Program 
 - 👀 I’m interested in wildife biology, conservation behavior, and sci-comm related social media posts.
 - 🌱 I’m currently researching radio telemetry and population abundance data on Humboldt's Flying Squirrels
-- 💞️ I’m looking to collaborate on wildlife related data
+- 💞️ I’m looking to collaborate on wildlife-related data or a science writer
 - 📫 How to reach me kellanelisabethparker@gmail.com or kellanparker@yahoo.com. Insta: @kellan_thescientist
 
 <!---
